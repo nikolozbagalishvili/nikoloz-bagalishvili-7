@@ -21,7 +21,7 @@ header {
     top: 0;
     z-index: 1;
 
-    
+
 }
 
 li a {
@@ -87,11 +87,16 @@ ul {
     left: 38px;
     gap: 0px;
     opacity: 0px;
-    border-color: border #FCC21B
-
-    ;
+    border-color: border #FCC21B;
 
 }
-
+.article_tittle {
+    font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+color: #372D23;
+display: inline-block;
+}
 
 
